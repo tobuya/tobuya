@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tobuya
+- 👋 Hi, I’m @thomas! Data Analyst and Frontend Developer.
 - 👀 I’m interested in Web Development and Data Science!
-- 🌱 I’m currently learning Full Stack Development.
+- 🌱 I’m currently learning Fullstack Web Development.
 - 💞️ I’m looking to collaborate with other content creators.
 - 📫 How to reach me: thomasobuya95@gmail.com
 

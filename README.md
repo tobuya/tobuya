@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [APis](https://github.com/tobuya)
 
-- 🌱 I’m currently learning **Full Stack Software Development**
+- 🌱 I’m currently learning **Full-Stack Software Development**
 
 - 👯 I’m looking to collaborate on **open source projects**
 

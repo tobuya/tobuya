@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/mullerthegreat1" target="blank"><img src="https://img.shields.io/twitter/follow/mullerthegreat1?logo=twitter&style=for-the-badge" alt="mullerthegreat1" /></a> </p>
 
-- 🔭 I’m currently working on [Tobuya](https://github.com/tobuya)
+- 🔭 I’m currently working on [ReactJS: Math Magicians & Counter App](https://github.com/tobuya)
 
 - 🌱 I’m currently learning **Full-Stack Software Development**
 

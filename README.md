@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Obuya</h1>
-<h3 align="center">A passionate data analyst and software development student.</h3>
+<h3 align="center">A passionate data analyst and software developer.</h3>
 
 <img width="50%" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="Coding" />
 

@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas Obuya</h1>
-<h3 align="center">A passionate data analyst and software developer.</h3>
 
-<img width="50%" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="Coding" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tobuya&label=Profile%20views&color=0e75b6&style=flat" alt="tobuya" /> </p>
+<p align="left"> <img src="assets/ezgif.com-video-to-gif.gif" alt="tobuya" width="100%"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobuya" alt="tobuya" /></a> </p>
 

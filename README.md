@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Personal Portfolio](https://github.com/tobuya/personal_portfolio)
 
-- 👯 I want to collaborate on **JavaScript/TypeScript, React, and Ruby on Rails projects.**
+- 👯 I want to collaborate on **JavaScript/TypeScript, React, and Ruby on Rails projects**
 
 - 💬 Ask me about **Web Development and Data Analysis**
 

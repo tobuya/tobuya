@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobuya" alt="tobuya" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/tobuya/personal_portfolio)
+- 🔭 I’m currently working on [Portfolio Projects](https://github.com/tobuya/personal_portfolio)
 
-- 👯 I want to collaborate on **JavaScript/TypeScript, React, and Ruby on Rails projects**
+- 👯 I want to collaborate on **JavaScript/TypeScript, React, and Ruby on Rails Projects**
 
 - 💬 Ask me about **Web Development and Data Analysis**
 

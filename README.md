@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [Portfolio Projects](https://github.com/tobuya/personal_portfolio)
 
-- 👯 I want to collaborate on **JavaScript/TypeScript, React, and Ruby on Rails Projects**
+- 👯 I want to collaborate on **JavaScript/TypeScript, React, and Ruby on Rails Projects.**
 
-- 💬 Ask me about **Web Development and Data Analysis**
+- 💬 Ask me about **Web Development and Data Analysis*.*
 
 - 📫 How to reach me **thomasobuya95@gmail.com**
 
-- ⚡ Fun fact **The first Computer mouse was made of wood, had only one button, and was invented by Doug Engelbart in 1964**
+- ⚡ Fun fact **The first Computer mouse was made of wood, had only one button, and was invented by Doug Engelbart in 1964.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

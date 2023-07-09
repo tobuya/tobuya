@@ -2,7 +2,11 @@
 
 <p align="left"> <img src="assets/ezgif.com-video-to-gif.gif" alt="tobuya" width="100%"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobuya" alt="tobuya" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" style="display: inline-block;">
+    <img src="https://github-profile-trophy.vercel.app/?username=tobuya" alt="tobuya" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on [Portfolio Projects](https://github.com/tobuya/personal_portfolio)
 

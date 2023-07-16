@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas Obuya</h1>
 
-<p align="left"> <img src="assets/ezgif.com-video-to-gif.gif" alt="tobuya" width="100%"/> </p>
+<p> <img src="assets/ezgif.com-video-to-gif.gif" alt="tobuya" width="100%"/> </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="display: inline-block;">

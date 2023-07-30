@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Portfolio Projects](https://github.com/tobuya/personal_portfolio)
+- 🔭 I’m currently working on [Portfolio Projects](https://github.com/tobuya/personal_portfolio).
 
 - 👯 I want to collaborate on **JavaScript/TypeScript, React, Ruby on Rails, and Data Science Open Source Projects.**
 

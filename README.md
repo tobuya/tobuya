@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on *[Portfolio Projects](https://github.com/tobuya/personal_portfolio)*.
 
-- 👯 I want to collaborate on **JavaScript, TypeScript, Ruby on Rails, RStudio, and Python Projects.**
+- 👯 I want to collaborate on **JavaScript, TypeScript, Ruby on Rails, RStudio, and Python Open Projects.**
 
 - 💬 Ask me about **Web Development and Data Analysis*.*
 

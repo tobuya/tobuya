@@ -12,7 +12,7 @@
 
 - 👯 I want to collaborate on **JavaScript, TypeScript, Ruby on Rails, RStudio, and Python Open-Source Projects.**
 
-- 💬 Ask me about **Programming, Web Development and Data Analysis*.*
+- 💬 Ask me about **Web Development and Data Analysis*.*
 
 - 📫 How to reach me **thomasobuya95@gmail.com**
 

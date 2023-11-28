@@ -2,19 +2,13 @@
 
 <p> <img src="assets/ezgif.com-video-to-gif.gif" alt="tobuya" width="100%"/> </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" style="display: inline-block;">
-    <img src="https://github-profile-trophy.vercel.app/?username=tobuya" alt="tobuya" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on *[Portfolio Projects](https://github.com/tobuya/personal_portfolio)*.
 
-- 👯 I want to collaborate on **JavaScript, TypeScript, Ruby on Rails, RStudio, and Python Open-Source Projects.**
+- 👯 I am also an open-source enthusiast and maintainer. I have learned alot from the open-source community and I love how collaboration and knowledge sharing happened through open source. I am therefore looking to collaborate on **JavaScript, TypeScript, Ruby, RStudio, and Python Open-Source Projects.**
 
-- 💬 Ask me about **Web Development and Data Analysis*.*
+- 💬 Ask me about **Web Development and Data Analysis*.* I take great care in the experience, architecture, and code quality of the things I build so any questions is highly appreciated.
 
-- 📫 How to reach me **thomasobuya95@gmail.com**
+- 📫 To reach out, send me an email at **thomasobuya95@gmail.com**. You can reach out for any questions, any freelance work or for just a chat. 
 
 - ⚡ Fun fact **The first Computer mouse was made of wood, had only one button, and was invented by Doug Engelbart in 1964.**
 
@@ -46,7 +40,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
-   <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> </a>
   <a href="https://www.rstudio.com" target="_blank" rel="noreferrer"> <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" alt="RStudio" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
 </p>

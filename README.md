@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on *[Portfolio Projects](https://github.com/tobuya/personal_portfolio)*.
 
-- 👯 I am also an open-source enthusiast and maintainer. I have learned alot from the open-source community and I love how collaboration and knowledge sharing happened through open source. I am therefore looking to collaborate on **JavaScript, TypeScript, Ruby, RStudio, and Python Open-Source Projects.**
+- 👯 I am also an open-source enthusiast and maintainer. I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open source. I am therefore looking to collaborate on **JavaScript, TypeScript, Ruby, RStudio, and Python Open-Source Projects.**
 
-- 💬 Ask me about **Web Development and Data Analysis*.* I take great care in the experience, architecture, and code quality of the things I build so any questions is highly appreciated.
+- 💬 Ask me about **Web Development and Data Analysis*.* I take great care in the experience, architecture, and code quality of the things I build so any questions are highly appreciated.
 
-- 📫 To reach out, send me an email at **thomasobuya95@gmail.com**. You can reach out for any questions, any freelance work or for just a chat. 
+- 📫 To reach out, send me an email at **thomasobuya95@gmail.com**. You can reach out for any questions, any freelance work, or for just a chat. 
 
 - ⚡ Fun fact **The first Computer mouse was made of wood, had only one button, and was invented by Doug Engelbart in 1964.**
 

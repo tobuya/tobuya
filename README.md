@@ -6,7 +6,7 @@
 
 - 👯 I am also an open-source enthusiast and maintainer. I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open source. I am therefore looking to collaborate on **JavaScript, TypeScript, Ruby, RStudio, and Python Open-Source Projects.**
 
-- 💬 Ask me about **Web Development and/or Data Analysis*.* I take great care in the experience, architecture, and code quality of the things I build so any questions are highly appreciated.
+- 💬 Ask me about **Web Development, Data Analysis, and/or just anything*.* I take great care in the experience, architecture, and code quality of the things I build so any questions are highly appreciated.
 
 - 📫 To reach out, send me an email at **thomasobuya95@gmail.com**. You can reach out for any questions, freelance work, or just a chat. 
 

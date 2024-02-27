@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Web Development, and Data Analysis*.* I take great care in the experience, architecture, and code quality of the things I build so any questions are highly appreciated.
 
-- 📫 To reach out, send me an email at **thomasobuya95@gmail.com**. You can reach out for any questions, freelance work, or just a chat. 
+- 📫 To reach out, send me an email at **thomasobuya95@gmail.com**. You can reach out for any questions, freelance work, or chat. 
 
 - ⚡ Fun fact **The first Computer mouse was made of wood, had only one button, and was invented by Doug Engelbart in 1964.**
 

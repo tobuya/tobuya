@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on *[Portfolio Projects](https://github.com/tobuya/personal_portfolio)*.
 
-- 👯 I'm also an open-source enthusiast and maintainer. I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open source. I am therefore looking to collaborate on **JavaScript, Python, and TypeScript Projects.**
+- 👯 I'm also an open-source enthusiast and maintainer. I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open source. I am therefore looking to collaborate on **JavaScript, Python, R, and TypeScript Projects.**
 
 - 💬 Ask me about **Web Development, or Data Analysis*.* I take great care in the experience, architecture, and code quality of the things I build so any questions are highly appreciated.
 
